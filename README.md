@@ -1,0 +1,2 @@
+# MyMuseAI
+MindsDB Hackathon submission.
